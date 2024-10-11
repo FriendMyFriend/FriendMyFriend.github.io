@@ -1,0 +1,22 @@
+body, html {
+    color: white;
+    background: rgb(38, 38, 38);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+a:link, a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover, a:visited:hover {
+    color: white;
+}
+
+a:active, a:visited:active {
+    color: red;
+}
